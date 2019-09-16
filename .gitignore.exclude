@@ -1,0 +1,10 @@
+venv/
+results/
+.idea
+*.xlsx
+*.xls
+.DS_Store
+
+# Environment file #
+###################
+.env
