@@ -1,2 +1,3 @@
-# financialliteracy
-Weekend Project
+# Data Science
+A quick repo to remember the stuff I'm working on...
+
