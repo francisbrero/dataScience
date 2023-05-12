@@ -1,0 +1,4 @@
+Flask
+sentence-transformers
+pandas
+numpy
