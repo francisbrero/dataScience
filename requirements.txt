@@ -2,3 +2,5 @@ Flask
 sentence-transformers
 pandas
 numpy
+pinecone-client
+python-dotenv
