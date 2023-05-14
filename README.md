@@ -36,3 +36,4 @@ The body should contain your query, something like
 }
 ```
 
+![image](https://github.com/francisbrero/dataScience/assets/2491181/97125b4d-52c7-4358-9ddf-d464430bf8f7)
