@@ -4,3 +4,4 @@ pandas
 numpy
 pinecone-client
 python-dotenv
+requests
