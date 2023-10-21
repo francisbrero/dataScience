@@ -1,7 +1,7 @@
 # Data Science
 A quick repo to remember the stuff I'm working on...
 
-# Configure
+# Similarity Funzies
 ## .env
 Rename the .env_sample file to .env and add your Pinecone credentials.
 You don't need a paid Pinecone instance for this
@@ -36,3 +36,21 @@ The body should contain your query, something like
 }
 ```
 
+# Google Search Engine with GenAI
+## Get your keys to write in your .env file
+
+To obtain a Google Custom Search Engine API key and Google Custom Search Engine CX, you will need to:
+
+- Go to the Google Cloud Platform Console.
+If you don't already have a Google Cloud Platform project, create one.
+- Click the hamburger menu in the top left corner of the page and select APIs & Services.
+- Click Enable APIs and Services.
+- https://developers.google.com/custom-search/v1/overview
+- Search for "Custom Search Engine API" and enable the API.
+
+To obtain a Google Custom Search Engine CX, you will need to:
+
+- Go to the [Programmable Search Engine control panel](https://programmablesearchengine.google.com/controlpanel).
+- Click Create a search engine.
+- Enter a name for your search engine and click Create.
+- On the Basic page, copy the Search engine ID. This is your CX.
