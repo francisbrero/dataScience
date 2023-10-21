@@ -35,6 +35,8 @@ The body should contain your query, something like
     "query": "collaborative software for engineering teams to create prototypes"
 }
 ```
+![image](https://github.com/francisbrero/dataScience/assets/2491181/97125b4d-52c7-4358-9ddf-d464430bf8f7)
+
 
 # Google Search Engine with GenAI
 ## Get your keys to write in your .env file
@@ -54,3 +56,5 @@ To obtain a Google Custom Search Engine CX, you will need to:
 - Click Create a search engine.
 - Enter a name for your search engine and click Create.
 - On the Basic page, copy the Search engine ID. This is your CX.
+
+
