@@ -57,4 +57,12 @@ To obtain a Google Custom Search Engine CX, you will need to:
 - Enter a name for your search engine and click Create.
 - On the Basic page, copy the Search engine ID. This is your CX.
 
-
+# Install and run chroma
+## Install chroma
+```bash
+pip install chroma
+```
+## Run chroma
+```bash
+chroma run --path "../data" --port 8000
+```

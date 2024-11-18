@@ -23,7 +23,11 @@ debug/
 */*/env/
 */env/
 /env/
+/venv/
 
 .DS_Store
 */.DS_Store
 *.env
+*.ics
+
+*.log
